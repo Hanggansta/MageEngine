@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <h1 align="center">
  <img src="https://github.com/Hanggansta/MageEngine/blob/main/J9GATEEUQB%5D%7D~O2QDGD%7D4M9.png" />
 </h1>
-
+# [description of the image]("https://github.com/Hanggansta/MageEngine/blob/main/J9GATEEUQB%5D%7D~O2QDGD%7D4M9.png")
 # rest of readme ..
 ### Markdown
 [Link](https://github.com/Hanggansta/MageEngine) and ![Image](https://github.com/Hanggansta/MageEngine/J9GATEEUQB]}~O2QDGD}4M9.png)
