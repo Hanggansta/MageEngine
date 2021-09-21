@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages OPENGL
+## MageEngine
 
 You can use the [editor on GitHub](https://github.com/Hanggansta/MageEngine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
